@@ -4,7 +4,7 @@ class Toy < Formula
   desc "Description of the formula"
   homepage "https://github.com/benny-n/toy"
   url "https://github.com/benny-n/toy/archive/refs/tags/v0.3.0.tar.gz"
-  sha256 "115cf985d932e9bf5f540555bbdd75decbb62cac81e399375fc19f6277f8c1d8"
+  sha256 "ef72de4715d526d9837bbfaff183592a92559746494124486db871ebdcbc05e0"
   license "MIT"
 
   depends_on "python"
