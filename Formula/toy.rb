@@ -3,8 +3,8 @@ class Toy < Formula
 
   desc "Description of the formula"
   homepage "https://github.com/benny-n/toy"
-  url "https://github.com/benny-n/toy/archive/refs/tags/v0.2.0.tar.gz"
-  sha256 "b0c780da369b1fe80a70038c3e7d2f23525f9fecd06a78235b5c200f7ca7f277"
+  url "https://github.com/benny-n/toy/archive/refs/tags/v0.3.0.tar.gz"
+  sha256 "115cf985d932e9bf5f540555bbdd75decbb62cac81e399375fc19f6277f8c1d8"
   license "MIT"
 
   depends_on "python"
